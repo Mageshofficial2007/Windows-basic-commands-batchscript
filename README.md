@@ -23,6 +23,7 @@ Create a directory named "my-folder"
 
 ## COMMAND AND OUTPUT
 ![](image.png)
+
 Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
